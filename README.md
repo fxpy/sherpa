@@ -7,3 +7,5 @@ wget -O sherpa.sh https://raw.githubusercontent.com/fxpy/sherpa/main/sherpa_inst
 ```
 
 wait for Rust compiled and contribute with random faceroll text
+
+if upload fails just repeat above installation command and try again
